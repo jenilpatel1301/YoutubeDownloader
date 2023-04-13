@@ -7,9 +7,9 @@ YouTube Video Downloader is a simple Python application that allows you to downl
 
 ### Prerequisites
 
-Python 3.x installed on your system
-Pytube library installed (You can install it using **\`pip install pytube\`**)
-Tkinter library installed (It's a standard Python library and should already be installed)
+• Python 3.x installed on your system
+• Pytube library installed (You can install it using **\`pip install pytube\`**)
+• Tkinter library installed (It's a standard Python library and should already be installed)
 
 ### Running the Application
 
