@@ -13,9 +13,9 @@ Tkinter library installed (It's a standard Python library and should already be 
 
 ### Running the Application
 
-1. Clone the repository or download the youtube_video_downloader.py file.
-2. Open a terminal or command prompt and navigate to the directory where the youtube_video_downloader.py file is located.
-3. Run the script using the command python youtube_video_downloader.py.
+1. Clone the repository or download the **\`youtube_video_downloader.py\`** file.
+2. Open a terminal or command prompt and navigate to the directory where the **\`youtube_video_downloader.py\`** file is located.
+3. Run the script using the command python **\`youtube_video_downloader.py\`**.
 4. The application window will open with a GUI for the YouTube Video Downloader.
 
 ### How to Use
@@ -31,15 +31,16 @@ Note: The downloaded video will be in the lowest resolution available on YouTube
 
 If you would like to contribute to this project, please follow these steps:
 
-Fork the repository
-Create a new branch for your changes
-Make your changes and test them
-Submit a pull request with a clear description of your changes
+1. Fork the repository
+2. Create a new branch for your changes
+3. Make your changes and test them
+4. Submit a pull request with a clear description of your changes
 
 
 ### Acknowledgements
 
 Pytube library: https://github.com/pytube/pytube
+
 Tkinter library: https://docs.python.org/3/library/tkinter.html
 
 ### Contact
